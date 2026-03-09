@@ -1564,6 +1564,8 @@ L’application s’ouvre sur [http://localhost:3000](http://localhost:3000).
 ```bash
 npm run build
 ```
+<img src="code.png" width="800" alt="VigorTerra ML Training Pipeline"/>
+
 
 Les fichiers sont générés dans le dossier `dist/`.
 
@@ -1576,4 +1578,5 @@ Les fichiers sont générés dans le dossier `dist/`.
 - **Pipeline** : étapes du projet (collecte, prétraitement, EDA, ML, évaluation)
 
 Interface 100 % statique pour le moment ; la liaison avec le backend (API, données dynamiques) pourra être ajoutée plus tard.
+
 
